@@ -49,7 +49,8 @@
 ---
 
 ### 🏅 Certificates & Achievements
-- 🎓 **Data Analysis with Python and Pandas – Udemy (2025)**  
+- 🎓 **Data Analysis with Python and Pandas – Udemy (2025)**
+- - 🧠 **TOEIC Certificate – ETS (Score: 625, 2025)**
 - 🔬 **Principal Investigator (Leader) of the Student Research Project (2025):**  
   *“Applying Machine Learning for Early Detection of Credit Risk in Small and Medium Enterprises in Ho Chi Minh City”* – Ho Chi Minh City Open University (HCMOU)
 
