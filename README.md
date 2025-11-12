@@ -60,20 +60,16 @@
 🎓 Bachelor of Data Science (Expected Graduation: 2027)
 ---
 
+### 🏅 Certificates & Achievements
+- 🎓 **Data Analysis with Python and Pandas – Udemy (2024)**  
+- 🔬 **Principal Investigator (Leader) of the Student Research Project (2025):**  
+  *“Applying Machine Learning for Early Detection of Credit Risk in Small and Medium Enterprises in Ho Chi Minh City”* – Ho Chi Minh City Open University (HCMOU)
+---
+
 ### 🌐 Connect with Me
 📧 **Email:** [truonglambaothoa@gmail.com](mailto:truonglambaothoa@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/truonglambaothoa](https://www.linkedin.com/in/b%E1%BA%A3o-thoa-73486236a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
 🐙 **GitHub:** [github.com/truonglambaothoa](https://github.com/baothoa)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=truonglambaothoa&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truonglambaothoa&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
-
 ---
 
 <p align="center">
