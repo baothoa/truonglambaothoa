@@ -62,7 +62,7 @@
 
 ### 🌐 Connect with Me
 📧 **Email:** [truonglambaothoa@gmail.com](mailto:truonglambaothoa@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/truonglambaothoa](https://www.linkedin.com/in/b%E1%BA%A3o-thoa-73486236a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app). 
+💼 **LinkedIn:** [linkedin.com/in/truonglambaothoa](https://www.linkedin.com/in/b%E1%BA%A3o-thoa-73486236a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
 🐙 **GitHub:** [github.com/truonglambaothoa](https://github.com/truonglambaothoa)
 
 ---
