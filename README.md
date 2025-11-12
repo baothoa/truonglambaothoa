@@ -44,24 +44,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-
----
-
-### 📂 Featured Projects
-- 🐍 **Data Analysis with Python** – Cleaned and visualized a sales dataset using pandas and Matplotlib.  
-- 🧮 **SQL Student Management System** – Designed and queried a relational database to manage academic data.  
-- 📈 **Power BI Dashboard** – Built an interactive dashboard to analyze store performance metrics.  
-
----
-
-### 🎓 Education
-**Ho Chi Minh City Open University (HCMOU)** – *Ho Chi Minh City, Vietnam*  
-🎓 Bachelor of Data Science (Expected Graduation: 2027)
----
-
-### 🏅 Certificates & Achievements
-- 🎓 **Data Analysis with Python and Pandas – Udemy (2024)**  
+![Google Colab](https://img.shields.io/badge/Go2025)**  
 - 🔬 **Principal Investigator (Leader) of the Student Research Project (2025):**  
   *“Applying Machine Learning for Early Detection of Credit Risk in Small and Medium Enterprises in Ho Chi Minh City”* – Ho Chi Minh City Open University (HCMOU)
 ---
