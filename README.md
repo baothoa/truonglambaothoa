@@ -1,30 +1,30 @@
-# truonglambaothoa
-My Data Science portfolio and introduction.
 <h1 align="center">👋 Hi, I'm Bảo Thoa</h1>
 
 <p align="center">
 🎓 2nd-year student majoring in <b>Data Science</b> at the University of Economics and Finance (UEF), Ho Chi Minh City.<br>
-💡 Passionate about <b>data analysis, visualization, and machine learning</b>.<br>
-📊 I love transforming raw data into meaningful insights and interactive dashboards.
+💡 Passionate about <b>data analysis, machine learning, and visualization</b>.<br>
+📊 I love turning data into meaningful insights through code and creativity.
 </p>
 
 ---
 
 ### 🧠 About Me
 - 🌱 Currently learning **Python**, **SQL**, and **Power BI** for data analytics.  
-- 🔍 Interested in **Machine Learning**, **Statistics**, and **Data Engineering**.  
-- 🤝 Open to collaboration on **data projects and analytics challenges**.  
+- 🔍 Interested in **Machine Learning**, **Big Data**, and **Data Engineering**.  
+- 💬 I enjoy collaborating on **data projects** and exploring new datasets.  
+- 🌍 Languages: Vietnamese (native), English (intermediate).  
 
 ---
 
 ### 🛠️ Technologies & Tools
 
-#### 💻 Programming & Analysis
+#### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
 
-#### 📚 Libraries
+#### 📚 Data Analysis & Libraries
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
@@ -34,12 +34,12 @@ My Data Science portfolio and introduction.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-#### 📊 Visualization Tools
+#### 📊 Visualization & Reporting
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-#### ⚙️ Version Control & Tools
+#### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -50,13 +50,13 @@ My Data Science portfolio and introduction.
 
 ### 📂 Featured Projects
 - 🐍 **Data Analysis with Python** – Cleaned and visualized a sales dataset using pandas and Matplotlib.  
-- 🧮 **SQL Student Management System** – Designed and queried a relational database for academic data.  
+- 🧮 **SQL Student Management System** – Designed and queried a relational database to manage academic data.  
 - 📈 **Power BI Dashboard** – Built an interactive dashboard to analyze store performance metrics.  
 
 ---
 
 ### 🎓 Education
-**University of Economics and Finance (UEF)** – Ho Chi Minh City, Vietnam  
+**University of Economics and Finance (UEF)** – *Ho Chi Minh City, Vietnam*  
 🎓 Bachelor of Data Science (Expected Graduation: 2027)  
 🏅 Dean’s List | Member of Data Science Club  
 
@@ -66,6 +66,15 @@ My Data Science portfolio and introduction.
 📧 **Email:** [truonglambaothoa@gmail.com](mailto:truonglambaothoa@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/truonglambaothoa](https://linkedin.com/in/truonglambaothoa)  
 🐙 **GitHub:** [github.com/truonglambaothoa](https://github.com/truonglambaothoa)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=truonglambaothoa&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truonglambaothoa&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+</p>
 
 ---
 
