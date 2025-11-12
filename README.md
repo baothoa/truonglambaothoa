@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Bảo Thoa</h1>
 
 <p align="center">
-🎓 2nd-year student majoring in <b>Data Science</b> at <b>Ho Chi Minh City Open University (HCMOU)</b>.<br>
+🎓 3rd-year student majoring in <b>Data Science</b> at <b>Ho Chi Minh City Open University (HCMOU)</b>.<br>
 💡 Passionate about <b>data analysis, machine learning, and visualization</b>.<br>
 📊 I love turning data into meaningful insights through code and creativity.
 </p>
