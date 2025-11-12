@@ -44,15 +44,24 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Go2025)**  
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+
+---
+
+### 🏅 Certificates & Achievements
+- 🎓 **Data Analysis with Python and Pandas – Udemy (2024)**  
+- 🧠 **SQL for Data Science – Udemy (2024)**  
+- 📊 **Power BI for Beginners – Udemy (2024)**  
 - 🔬 **Principal Investigator (Leader) of the Student Research Project (2025):**  
   *“Applying Machine Learning for Early Detection of Credit Risk in Small and Medium Enterprises in Ho Chi Minh City”* – Ho Chi Minh City Open University (HCMOU)
+
 ---
 
 ### 🌐 Connect with Me
 📧 **Email:** [truonglambaothoa@gmail.com](mailto:truonglambaothoa@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/truonglambaothoa](https://www.linkedin.com/in/b%E1%BA%A3o-thoa-73486236a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
+💼 **LinkedIn:** [linkedin.com/in/truonglambaothoa](https://www.linkedin.com/in/b%E1%BA%A3o-thoa-73486236a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 🐙 **GitHub:** [github.com/truonglambaothoa](https://github.com/baothoa)
+
 ---
 
 <p align="center">
