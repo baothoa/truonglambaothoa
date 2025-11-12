@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Bảo Thoa</h1>
 
 <p align="center">
-🎓 2nd-year student majoring in <b>Data Science</b> at the University of Economics and Finance (UEF), Ho Chi Minh City.<br>
+🎓 2nd-year student majoring in <b>Data Science</b> at <b>Ho Chi Minh City Open University (HCMOU)</b>.<br>
 💡 Passionate about <b>data analysis, machine learning, and visualization</b>.<br>
 📊 I love turning data into meaningful insights through code and creativity.
 </p>
@@ -56,10 +56,8 @@
 ---
 
 ### 🎓 Education
-**University of Economics and Finance (UEF)** – *Ho Chi Minh City, Vietnam*  
-🎓 Bachelor of Data Science (Expected Graduation: 2027)  
-🏅 Dean’s List | Member of Data Science Club  
-
+**Ho Chi Minh City Open University (HCMOU)** – *Ho Chi Minh City, Vietnam*  
+🎓 Bachelor of Data Science (Expected Graduation: 2027)
 ---
 
 ### 🌐 Connect with Me
